@@ -6,7 +6,6 @@ public/sw*
 public/workbox*
 .DS_Store
 out/
-.env
-.env
+.env*
 
 .vercel
